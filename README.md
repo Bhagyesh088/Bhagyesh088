@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Bhagyesh
-- 👀 I’m interested in Data Analysis, Data Science, Python, ML, NLP, Data Visualtization
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects  
+- 👀 I’m interested in Data Analysis, Python,, Data Visualization
+- 💞️ I’m looking to collaborate on Data Analytical projects
 - 📫 
 
 <!---
